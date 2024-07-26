@@ -1,0 +1,23 @@
+.fundofora{
+    background-color: rgb(49, 54, 63);
+}
+
+.odal{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.texto{
+    text-align: center;
+    color: whitesmoke;
+    box-shadow: goldenrod;
+}
